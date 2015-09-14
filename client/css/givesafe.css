@@ -1,0 +1,75 @@
+/* CSS declarations go here */
+.background {
+  margin-top: -20px;
+  height: 750px;
+  width: 1440px;
+  border-style: solid;
+  border-top: 3px;
+  border-left: 1px;
+  border-right: 1px;
+}
+
+.sec1 h1 {
+  font-size: 30px;
+  padding-top: 100px;
+  padding-left: 20px;
+}
+.sec1 {
+  padding-top: 20px;
+  padding-left: 50px;
+}
+
+.sec1 h2 {
+  font-size: 12px;
+  padding-left: 20px;
+}
+.sec2 h1 {
+  font-size: 10px;
+  padding-left: 26px;
+  margin-top: -16px;
+
+}
+
+.sec2 {
+  margin-left: 60px;
+}
+span.glyphicon.glyphicon-send {
+  padding-left : 10px;
+  padding-top: 20px;
+}
+
+.container1 {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+.custumfoot {
+  height: 250px;
+  width: 1440px;
+  border-top: 3px;
+  border-left: 1px;
+  border-right: 1px;
+  background-image: url('https://cdn.pbrd.co/images/DqxFzST.png');
+  background-repeat: no-repeat;
+}
+#Field1 {
+  width: 400px;
+  height: 50px;
+}
+
+.lrgimage {
+  background-color: black;
+  height: 746px;
+  width: 600px;
+  margin-left: 600px;
+  padding-top: 20px;
+  margin-top: -375px;
+}
+.owl-carousel .item{
+  margin: 3px;
+}
+.owl-carousel .item img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
